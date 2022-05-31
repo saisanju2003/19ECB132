@@ -67,7 +67,7 @@ void display_queue(void) {
 void array_stack() {
   top_of_stack = 0;
   int choice;
-  printf("\n***Creation of Stack using Array***");
+  printf("\n**Creation of Stack using Array**");
   while(1) {
     printf("\n 1. Push \t 2. Pop \t 3. Display \t 4. Return to previous menu \n Choose an option: ");
     scanf("%d", &choice);
@@ -85,7 +85,7 @@ void array_stack() {
 }
 
 void array_queue() {
-  printf("\n***Creation of Queue using Array***");
+  printf("\n**Creation of Queue using Array**");
   front =0;
   rear = 0;
   int choice;
@@ -105,11 +105,11 @@ void array_queue() {
   }
 }
 void linked_list_stack() {
-  printf("\n***Creation of Stack using Linked List***");
+  printf("\n**Creation of Stack using Linked List**");
 }
 
 void linked_list_queue() {
-  printf("\n***Creation of Queue using Linked List***");
+  printf("\n**Creation of Queue using Linked List**");
 }
 
 int main(void) {
@@ -132,3 +132,24 @@ int main(void) {
     
   }
 }
+/* output:
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
+ Provide an option: 1
+**Creation of Stack using Array**
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 1
+Enter the element to be pushed to the stack: 2
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 2
+Popped element is: 2
+ 1. Push     2. Pop      3. Display      4. Return to previous menu 
+ Choose an option: 4
+1. Stack using Array
+2. Queue using Array
+3. Stack using Linked List
+4. Queue using Linked List
+5. Exit from the program
