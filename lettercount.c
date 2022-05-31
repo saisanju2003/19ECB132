@@ -1,4 +1,4 @@
-# include <stdio.h>
+./a.ou # include <stdio.h>
 # include <string.h>
 int main(void) {
   char sentence[20];
@@ -11,14 +11,8 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+~/19ECB132-2$ gcc lettercount.c
+~/19ECB132-2$ ./a.out
+Enter a sentence: number of letters 
 
-/* Obervations:
-01. How to work with sentences having a space in between?
-Output:
-Case - 01
-Enter a sentence: suraj
-The number of letters in the given sentence are : 5
-Case - 02  
-Enter a sentence: suraj aravind
-The number of letters in the given sentence are : 5
-*/  
+The number of letters in the given sentence are : 6
