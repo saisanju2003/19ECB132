@@ -11,8 +11,10 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+/* output
 ~/19ECB132-2$ gcc lettercount.c
 ~/19ECB132-2$ ./a.out
 Enter a sentence: number of letters 
 
 The number of letters in the given sentence are : 6
+  */
