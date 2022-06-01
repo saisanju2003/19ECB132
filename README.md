@@ -3,8 +3,8 @@
 ## Index  
 [01_letter_count.c](_letter_count.c)  
 [02_insertion_sort.c](_insertion_sort.c)  
-[03 add_delete_insert_in_an_array.c](_add_delete_insert_in_an_array.c)  
-[04 add_delete_modify_in_single_linked_list.c](_add_delete_modify_in_single_linked_list.c)  
+[03 add_delete_insert_in_an_array.c](add_delete_insert_in_an_array.c)  
+[04 add_delete_modify_in_single_linked_list.c](add_delete_modify_in_single_linked_list.c)  
 [05 bitwise.c](bitwise.c)  
 [06 btree.c](btree.c)  
 [07 doublelinkedlist.c](doublelinkedlist.c)   
