@@ -12,9 +12,9 @@ int main() {
     
     return 0;
 }
-
+/* output
 Enter two numbers: 2 5
 Product = 10.00
-
+*/
 
 
