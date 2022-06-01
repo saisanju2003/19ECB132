@@ -17,6 +17,8 @@ int main () {
 
    return 0;
   }
+/* output
 Address of var variable: a9ae5a1c
 Address stored in ip variable: a9ae5a1c
 Value of *ip variable: 20
+*/
