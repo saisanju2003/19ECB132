@@ -3,8 +3,8 @@ This instructor repo is created as part of the course tiled "Data Structures and
 
 ## Index  
 [01_letter_count.c](01_letter_count.c)  
-[02_insertion_sort.c](02_insertion_sort.c)
-[03 add_delete_insert_in_an_array.c](03_add_delete_insert_in_an_array.c)
+[02_insertion_sort.c](02_insertion_sort.c)  
+[03 add_delete_insert_in_an_array.c](03_add_delete_insert_in_an_array.c)  
 [04 add_delete_modify_in_single_linked_list.c](04_add_delete_modify_in_single_linked_list.c)
 [05_bitwise.c](05_bitwise.c)
 [06 btree.c](06_btree.c)
