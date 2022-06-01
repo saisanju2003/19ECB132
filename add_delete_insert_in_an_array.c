@@ -77,8 +77,8 @@ int main()
     }
     return
       }   
-/*
-output:
+
+/* output
 Enter size of array3
 Enter 1 element1
 Enter 2 element2
@@ -87,3 +87,4 @@ Enter i to insert/ d to deletei
 Enter element to insert5
 Enter positon2
 1 5 2
+*/
