@@ -48,4 +48,6 @@ int main(){
     preOrder(p);
     return 0;
 }
+/* output
 4 1 5 2 6 ~/19ECB132-6$ ^C
+*/
